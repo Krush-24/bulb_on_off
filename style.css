@@ -1,0 +1,38 @@
+body{
+    background: white;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    width: 150px;
+}
+
+#img_div{
+    margin: auto;    
+    height: 250px;
+    width: 150px;
+}
+
+button{
+    height: 55px;
+    width: 75px;
+    background: black;
+    color: white;
+    border-radius: 25px;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+#btn_div{
+    margin: auto;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
